@@ -1,0 +1,41 @@
+{"pharmacists": [
+    {
+        "id": 1,
+        "name": "Senthil Marimuthu",
+        "position": "Owner/Pharmacist"
+    },
+    {
+        "id": 2,
+        "name": "Michael Quinones",
+        "position": "Co-owner/Lead Technician"
+    },
+    {
+        "id": 3,
+        "name": "Jay Newman",
+        "position": "Pharmacist"
+    },
+    {
+        "id": 4,
+        "name": "Katelyn Melton",
+        "position": "Pharmacist"
+    }
+],
+"technicians": [
+    {
+        "id": 1,
+        "name": "Cathy Buckley",
+        "position": "Pharmacy Technician"
+    },
+    {
+        "id": 2,
+        "name": "Tami Grehofsky",
+        "position": "Pharmacy Technician"
+    },
+    {
+        "id": 3,
+        "name": "Mandy Decarlo",
+        "position": "Pharmacy Technician"
+    }
+]
+
+}
